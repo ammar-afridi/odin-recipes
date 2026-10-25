@@ -22,7 +22,7 @@ odin-recipes/
     ├── chicken-karahi.html
     ├── paratha.html
     └── rasmalai.html
-
+```
 ---
 
 ## 🛠️ Skills Demonstrated
