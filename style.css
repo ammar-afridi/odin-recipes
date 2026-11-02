@@ -6,10 +6,7 @@ html {
   box-sizing: inherit;
 }
 
-
-.header{
-    border: 1px solid red;
-}
+/* Home Page */
 
 .title {
     font-family: Arial, Helvetica, sans-serif ;
@@ -18,12 +15,19 @@ html {
 }
 
 
-.ul {
-    border: 1px solid red;
-}
 
 li{
-    border : 1px solid red;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    margin-top:10px;
+    background-color: #5599ff;
+    padding: 10px;
+    border-top: 2px solid gray;
+    border-left: 2px solid gray;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    font-weight: bold;
 }
+
+
+/* Chicken Karrahi Page */
+
